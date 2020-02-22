@@ -36,7 +36,7 @@ public class AboutArray3 {
         }
         return count;
     }
-    
+
     // 992 按奇偶排序数组 (直接方式)
     public int[] sortArrayByParityII2(int[] A) {
         Queue<Integer> evenQueue = new LinkedList<Integer>();
